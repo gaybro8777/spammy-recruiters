@@ -5,7 +5,7 @@ Flask-SQLAlchemy==0.16
 Flask-Testing==0.4
 Flask-WTF==0.8
 Jinja2==2.6
-Mako==0.7.2
+Mako==1.2.2
 MarkupSafe==0.15
 SQLAlchemy==0.7.9
 WTForms==1.0.2
